@@ -67,6 +67,7 @@ global.APIKeys = {
   'https://zenzapis.xyz': `${keysxxx}`,
   'https://api-fgmods.ddns.net': 'fg-dylux',
 }
+//sticker something
 global.botname = 'XLICON-V2'
 global.premium = 'true'
 global.packname = 'XLICON TEAM' 
