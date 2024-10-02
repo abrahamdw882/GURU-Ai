@@ -127,5 +127,5 @@ process.on('unhandledRejection', () => {
 process.on('exit', code => {
   console.error(chalk.red(`Exited with code: ${code}`))
   console.error(chalk.red(`Bot will restart...`))
-  start('Guru.js')
+  start('xlicon.js')
 })
