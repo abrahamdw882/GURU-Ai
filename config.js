@@ -67,22 +67,21 @@ global.APIKeys = {
   'https://zenzapis.xyz': `${keysxxx}`,
   'https://api-fgmods.ddns.net': 'fg-dylux',
 }
-
-// Sticker WM
-global.botname = process.env.BOTNAME
+global.botname = 'XLICON-V2'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
-global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
-global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
+global.packname = 'XLICON TEAM' 
+global.author = '@XLICON-V2' 
+global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
+global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
+global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
+global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
+global.fgyt = 'https://youtube.com/@s4salmanyt'
+global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.fglog = 'XLICON.jpg' 
+global.thumb = fs.readFileSync('./XLICON.jpg')
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*🕣 _XLICON IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.rwait = '⌛'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
